@@ -1,26 +1,5 @@
 {
-	"event": [
-		{
-			"talk": [
-				{
-					"title": "call DPS.nl",
-					"type": "Talk"
-				}
-			],
-			"city": "Amsterdam",
-			"country": "code",
-			"comment": "call malaka"
-		},
-		{
-			"talk": [
-				{
-					"title": "TBD",
-					"type": "Talk"
-				}
-			],
-			"country": "code"
-		}
-	],
+	"event": [],
 	"project": [
 		{
 			"url": "https://mavo.io",
